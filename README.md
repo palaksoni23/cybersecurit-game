@@ -50,3 +50,7 @@ cyber-security-quiz-game/
 ├── script.js
 ├── questions.js
 └── README.md
+
+🚀 Live Demo
+
+🔗 https://cybersecurit-game.vercel.app
