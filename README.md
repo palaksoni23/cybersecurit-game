@@ -1,48 +1,26 @@
-# 🔐 Cyber Security Awareness Quiz Game
+# Cyber Security Quiz Game 🔐
 
-An interactive and educational web-based quiz game designed to spread awareness about cybersecurity threats and safe online practices.
+An interactive cybersecurity awareness game built using HTML, CSS, and JavaScript.
+This project helps users learn important cybersecurity concepts in a fun and engaging way.
 
-This project helps users learn about phishing attacks, password security, OTP scams, safe browsing habits, and social engineering through engaging quiz-based gameplay.
+## 🌟 Features
 
----
-
-## 🚀 Features
-
-- Multiple-choice cybersecurity quiz
-- Timer functionality
-- Difficulty levels (Easy, Medium, Hard)
-- Score tracking system
-- Leaderboard using localStorage
-- Responsive design for mobile and desktop
-- Educational explanations after answers
-- Restart quiz functionality
-- Interactive and beginner-friendly UI
-
----
-
-## 🛡️ Topics Covered
-
-- Phishing attacks
-- Password safety
-- OTP scams
-- Safe browsing
-- Social engineering
-- HTTPS security
-- Online privacy awareness
-
----
+* Cybersecurity quiz challenges
+* Interactive gameplay
+* Responsive design
+* Beginner-friendly UI
+* Online privacy awareness
+* Fast and lightweight
 
 ## 🧑‍💻 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-
----
+* HTML5
+* CSS3
+* JavaScript
 
 ## 📂 Project Structure
 
-```text
+```bash
 cyber-security-quiz-game/
 │
 ├── index.html
@@ -50,7 +28,20 @@ cyber-security-quiz-game/
 ├── script.js
 ├── questions.js
 └── README.md
+```
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 https://cybersecurit-game.vercel.app
+
+## 📌 GitHub Repository
+
+🔗 https://github.com/palaksoni23/cybersecurit-game
+
+## 📖 About
+
+This project was created to spread awareness about cybersecurity and online privacy through interactive web-based learning.
+
+## 👩‍💻 Author
+
+Palak Soni
